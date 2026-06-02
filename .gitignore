@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Logs (symlinked to ~/Library/Logs/mac-maintenance — not committed)
+logs/
+*.log
